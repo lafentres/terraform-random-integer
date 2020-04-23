@@ -3,5 +3,5 @@ resource "random_integer" "integer" {
     uuid = uuid()
   }
   min = 1
-  max = 12
+  max = 15
 }
